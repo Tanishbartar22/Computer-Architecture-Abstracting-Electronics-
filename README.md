@@ -1,4 +1,4 @@
-# Computer-Architecture-Abstracting-Electronics-
+# Computer-Architecture-Abstracting-Electronics
 Understanding the idea behind computers. No electronics. 
 
 
