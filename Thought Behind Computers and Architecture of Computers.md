@@ -24,7 +24,7 @@ Let's discuss this type of architecture in more detail.
 
 We start by storing numbers in the electrical storage units. Now, 1 can be stored using one storage unit; however, `10029872772727` cannot be stored using one storage unit.
 
-Now, a solution to this problem is to decide on a single, big enough number of storage units required to store any number. Let's say that number $N$ is `100000000`.
+Now, a solution to this problem is to decide on a single, big enough number of storage units required to store any number and then build our system to work with numbers stored using $N$ storage units. Let's say that number $N$ is `100000000`.
 
 If we follow this rule, then every number can be represented by using `100000000` storage units. This solution wastes a lot of physical storage units to store information, and at maximum, you can only represent $2^N$ numbers.
 
